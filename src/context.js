@@ -53,24 +53,7 @@ export class Provider extends Component {
          }
       })}) 
     }
-    // componentDidMount() {
-    //     axios.get('https://jsonplaceholder.typicode.com/users').then(res =>
-    //     this.setState({
-    //       employees: res.data.map(employee => {
-    //         return {
-    //           id: employee.id,
-    //           name: employee.name,
-    //           phone: employee.phone,
-    //           address: employee.address.street,
-    //           suite: employee.address.suite,
-    //           zipcode: employee.address.zipcode,
-    //           email: employee.email,
-    //           city: employee.address.city
-    //         };
-    //       }) 
-    //     })
-    //   );    
-    // }
+    
 
     render(){
         return(
