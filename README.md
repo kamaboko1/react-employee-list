@@ -1,3 +1,5 @@
+This project uses jsonplaceholder to mimic a database.  Key word is mimic.  It does have its shortcomings, but you can still get an idea of how this works.  In the future I'll get something up using Firebase. Until then...
+
 To view go to https://kamaboko1.github.io/reactemployeelist/#/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
